@@ -68,8 +68,9 @@ javaOpts:
 # only set this variable if a private registry secret is needed to pull the image
 #registryPullSecrets: private-registry-secret
 image:
-  repository: activiti-runtime-bundle-custom
+  repository: us.gcr.io/cc-business-systems-dev/activiti-runtime-bundle-custom
   tag: 0.0.1-SNAPSHOT
+  pullPolicy: IfNotPresent
 service:
   name: sample-activiti7-rb-app
   type: ClusterIP
