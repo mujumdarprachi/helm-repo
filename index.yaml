@@ -3,9 +3,9 @@ entries:
   sample-cloud-connector:
   - apiVersion: v1
     appVersion: 7.1.0.M1
-    created: "2019-05-22T20:52:21.1819161+05:30"
+    created: "2019-05-23T11:53:25.5605921+05:30"
     description: A Helm chart for Activiti Cloud Connector
-    digest: bfff852321abd3183651c6053e1ce66d37f08badee4de1bb0f6c7860ef56762d
+    digest: 737515dd88ac55c16a85c1d2d610963821ba00a3c51276333dfa526be791ebd1
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: sample-cloud-connector
     urls:
@@ -14,7 +14,7 @@ entries:
   sample-runtime-bundle:
   - apiVersion: v1
     appVersion: 7.1.0.M1
-    created: "2019-05-22T20:52:21.1829485+05:30"
+    created: "2019-05-23T11:53:25.5625949+05:30"
     description: A Helm chart for Sample Activiti Cloud Runtime Bundle Example
     digest: 65ef0e520f9fb4c5ce56ecea5a8c68a108a6ee2eeca323a4facf66ea9ca6863e
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://mujumdarprachi.github.io/helm-repo/sample-runtime-bundle-1.1.10.tgz
     version: 1.1.10
-generated: "2019-05-22T20:52:21.1799501+05:30"
+generated: "2019-05-23T11:53:25.5555899+05:30"

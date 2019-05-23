@@ -46,7 +46,7 @@ javaOpts:
 image:
   repository: us.gcr.io/cc-business-systems-dev/activiti-cloud-connector-custom
   tag: 0.0.1-SNAPSHOT
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
 service:
   name: sample-activiti7-cc-app
   type: ClusterIP
